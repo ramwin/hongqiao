@@ -78,13 +78,13 @@
 * 视频
 [https://raw.githubusercontent.com/ramwin/hongqiao/master/%E5%B0%8F%E5%B0%BA%E5%AF%B8/%E8%A7%86%E9%A2%91.mp4](https://raw.githubusercontent.com/ramwin/hongqiao/master/%E5%B0%8F%E5%B0%BA%E5%AF%B8/%E8%A7%86%E9%A2%91.mp4)
 * 次卧\_从窗户拍
-![次卧1](./小尺寸/次卧_从窗户拍.jpg)
+![次卧1](./次卧_从窗户拍.jpg)
 * 次卧\_从门口拍
-![次卧2](./小尺寸/次卧_从门口拍.jpg)
+![次卧2](./次卧_从门口拍.jpg)
 * 餐桌
-![餐桌.jpg](./小尺寸/餐桌.jpg)
+![餐桌.jpg](./餐桌.jpg)
 * 冰箱
-![冰箱.jpg](./小尺寸/冰箱.jpg)
+![冰箱.jpg](./冰箱.jpg)
 * 到地铁站的距离
 ![到地铁站](./地铁站.png)
 * 到公园
