@@ -10,6 +10,7 @@
 水电煤: 我们平摊，价格是居民用电用水(电(谷)0.307元/度， 电(平)0.617元/度，水3.45元/吨，燃气3元/立方)  
 装修: 自如精装  
 出租原因: 之前是女友表妹住，现在她大学开学了，所以准备租出去一间  
+视频: [https://raw.githubusercontent.com/ramwin/hongqiao/master/%E5%B0%8F%E5%B0%BA%E5%AF%B8/%E8%A7%86%E9%A2%91.mp4](https://raw.githubusercontent.com/ramwin/hongqiao/master/%E5%B0%8F%E5%B0%BA%E5%AF%B8/%E8%A7%86%E9%A2%91.mp4)
 宠物: 我自己就一只乌龟，欢迎你养猫养狗
 简介: 欢迎前来看房，你可以选择主卧或者次卧。公共区域可以各用一半;阳台只给主卧的住户使用;主卧阳台外面的杆子(用来晒被子)共同使用。图片都只有一百到几百kb，视频是11.7M，请放心打开。欢迎打电话，加微信，发邮件。如果有不清楚的地方也希望你能告知一下，我这边立马更新.  
 [网址](https://github.com/ramwin/hongqiao): https://github.com/ramwin/hongqiao
